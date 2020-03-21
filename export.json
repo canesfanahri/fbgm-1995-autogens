@@ -1,0 +1,458 @@
+{
+  "version": 32,
+  "meta": {
+    "phaseText": "2000 preseason",
+    "name": "NFL Teams"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 1,
+      "did": 7,
+      "region": "Arizona",
+      "name": "Cardinals",
+      "abbrev": "ARI",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fari.png",
+      "colors": [
+        "#97233F",
+        "#000000",
+        "#FFB612"
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 1,
+      "did": 6,
+      "region": "Atlanta",
+      "name": "Falcons",
+      "abbrev": "ATL",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fatl.png",
+      "colors": [
+        "#A71930",
+        "#000000",
+        "#a5acaf"
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 1,
+      "region": "Baltimore",
+      "name": "Ravens",
+      "abbrev": "Ravens",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fbal.png",
+      "color": [
+        "#241773",
+        "#000000",
+        "#9E7C0C"
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 0,
+      "region": "Buffalo",
+      "name": "Bills",
+      "abbrev": "BUF",
+      "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fbuf.png",
+      "color": [
+        "#00338D",
+        "#C60C30",
+        ""
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 1,
+      "did": 6,
+      "region": "Carolina",
+      "name": "Panthers",
+      "abbrev": "CAR",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "color": [
+        "#0085CA",
+        "#101820",
+        ""
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 1,
+      "did": 5,
+      "region": "Chicago",
+      "name": "Bears",
+      "abbrev": "CHI",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fchi.png",
+      "color ": [
+        "#0b162a",
+        "#c83803",
+        ""
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 0,
+      "did": 1,
+      "region": "Cincinnati",
+      "name": "Bengals",
+      "abbrev": "CIN",
+      "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fcin.png",
+      "color ": [
+        "#000000",
+        "#fb4f14",
+        ""
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 0,
+      "did": 1,
+      "region": "Cleveland",
+      "name": "Browns",
+      "abbrev": "CLE",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fcle.png",
+      "color": [
+        "#311d00",
+        "#ff3c00",
+        ""
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 1,
+      "did": 4,
+      "region": "Dallas",
+      "name": "Cowboys",
+      "abbrev": "DAL",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+      "color": [
+        "#002244",
+        "#869397",
+        "#00338d"
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 0,
+      "did": 3,
+      "region": "Denver",
+      "name": "Broncos",
+      "abbrev": "DEN",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fden.png",
+      "color": [
+        "#fb4f14",
+        "#002244",
+        ""
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 5,
+      "region": "Detroit",
+      "name": "Lions",
+      "abbrev": "DET",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+      "color (copy)": [
+        "#0076b6",
+        "#b0b7bc",
+        ""
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 5,
+      "region": "Green Bay",
+      "name": "Packers",
+      "abbrev": "GB",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fgb.png",
+      "color": [
+        "#203731",
+        "#ffb612",
+        ""
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 0,
+      "did": 2,
+      "region": "Houston",
+      "name": "Texans",
+      "abbrev": "HOU",
+      "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fhou.png",
+      "color (copy)": [
+        "#03202f",
+        "#a71930",
+        ""
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 2,
+      "region": "Indianapolis",
+      "name": "Colts",
+      "abbrev": "IND",
+      "imgURL": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Find.png",
+      "color": [
+        "#002c5f",
+        "#a5acaf",
+        ""
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 0,
+      "did": 2,
+      "region": "Jacksonville",
+      "name": "Jaguars",
+      "abbrev": "JAX",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fjax.png",
+      "color (copy)": [
+        "#006778",
+        "#000000",
+        "#9f792c"
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 3,
+      "region": "Kansas City",
+      "name": "Chiefs",
+      "abbrev": "KC",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fkc.png",
+      "color": [
+        "#e31837",
+        "#ffb612",
+        ""
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 3,
+      "region": "Los Angeles",
+      "name": "Chargers",
+      "abbrev": "LAC",
+      "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Flac.png",
+      "color (copy)": [
+        "#002244",
+        "#0073cf",
+        "#ffb612"
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 1,
+      "did": 7,
+      "region": "Los Angeles",
+      "name": "Rams",
+      "abbrev": "LAR",
+      "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Flar.png",
+      "color": [
+        "#002244",
+        "#b3995d",
+        ""
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 0,
+      "did": 0,
+      "region": "Miami",
+      "name": "Dolphins",
+      "abbrev": "MIA",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fmia.png",
+      "color (copy)": [
+        "#008e97",
+        "#f26a24",
+        ""
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 1,
+      "did": 5,
+      "region": "Minnesota",
+      "name": "Vikings",
+      "abbrev": "MIN",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+      "color": [
+        "#4f2683",
+        "#ffc62f",
+        ""
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 0,
+      "did": 0,
+      "region": "New England",
+      "name": "Patriots",
+      "abbrev": "NE",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fne.png",
+      "color (copy)": [
+        "#002244",
+        "#c60c30",
+        "#b0b7bc"
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 1,
+      "did": 6,
+      "region": "New Orleans",
+      "name": "Saints",
+      "abbrev": "NO",
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fno.png",
+      "color": [
+        "#d3bc8d",
+        "#000000",
+        ""
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 1,
+      "did": 4,
+      "region": "New York",
+      "name": "Giants",
+      "abbrev": "NYG",
+      "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fnyg.png",
+      "color (copy)": [
+        "#0b2265",
+        "#a71930",
+        "#a5acaf"
+      ]
+    },
+    {
+      "tid": 23,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Jets",
+      "abbrev": "NYJ",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+      "color": [
+        "#003f2d",
+        "",
+        ""
+      ]
+    },
+    {
+      "tid": 24,
+      "cid": 0,
+      "did": 3,
+      "region": "Oakland",
+      "name": "Raiders",
+      "abbrev": "OAK",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+      "color (copy)": [
+        "#a5acaf",
+        "#000000",
+        ""
+      ]
+    },
+    {
+      "tid": 25,
+      "cid": 1,
+      "did": 4,
+      "region": "Philadelphia",
+      "name": "Eagles",
+      "abbrev": "Eagles",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "color": [
+        "#004c54",
+        "#a5acaf",
+        "#000000"
+      ]
+    },
+    {
+      "tid": 26,
+      "cid": 0,
+      "did": 1,
+      "region": "Pittsburgh",
+      "name": "Steelers",
+      "abbrev": "PIT",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fpit.png",
+      "color (copy)": [
+        "#000000",
+        "#ffb612",
+        ""
+      ]
+    },
+    {
+      "tid": 27,
+      "cid": 1,
+      "did": 7,
+      "region": "San Francisco",
+      "name": "49ers",
+      "abbrev": "SF",
+      "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fsf.png",
+      "color": [
+        "#aa0000",
+        "#b3995d",
+        ""
+      ]
+    },
+    {
+      "tid": 28,
+      "cid": 1,
+      "did": 7,
+      "region": "Seattle",
+      "name": "Seahawks",
+      "abbrev": "SEA",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fsea.png",
+      "color (copy)": [
+        "#002244",
+        "#69be28",
+        "#a5acaf"
+      ]
+    },
+    {
+      "tid": 29,
+      "cid": 1,
+      "did": 6,
+      "region": "Tampa Bay",
+      "name": "Buccaneers",
+      "abbrev": "TB",
+      "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Ftb.png",
+      "color": [
+        "#d50a0a",
+        "#34302b",
+        "#ff7900"
+      ]
+    },
+    {
+      "tid": 30,
+      "cid": 0,
+      "did": 2,
+      "region": "Tennessee",
+      "name": "Titans",
+      "abbrev": "TEN",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+      "color (copy)": [
+        "#002244",
+        "#4b92db",
+        "#c60c30"
+      ]
+    },
+    {
+      "tid": 31,
+      "cid": 1,
+      "did": 4,
+      "region": "Washington",
+      "name": "Redskins",
+      "abbrev": "WAS",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fwsh.png",
+      "color": [
+        "#773141",
+        "#ffb612",
+        ""
+      ]
+    }
+  ],
+  "startingSeason": 2000
+}
