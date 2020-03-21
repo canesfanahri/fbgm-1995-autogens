@@ -30,7 +30,7 @@
       "colors": [
         "#A71930",
         "#000000",
-        "#a5acaf"
+        "#A5ACAF"
       ]
     },
     {
@@ -39,9 +39,9 @@
       "did": 1,
       "region": "Baltimore",
       "name": "Ravens",
-      "abbrev": "Ravens",
+      "abbrev": "BAL",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fbal.png",
-      "color": [
+      "colors": [
         "#241773",
         "#000000",
         "#9E7C0C"
@@ -55,7 +55,7 @@
       "name": "Bills",
       "abbrev": "BUF",
       "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fbuf.png",
-      "color": [
+      "colors": [
         "#00338D",
         "#C60C30",
         ""
@@ -69,7 +69,7 @@
       "name": "Panthers",
       "abbrev": "CAR",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-      "color": [
+      "colors": [
         "#0085CA",
         "#101820",
         ""
@@ -83,7 +83,7 @@
       "name": "Bears",
       "abbrev": "CHI",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fchi.png",
-      "color ": [
+      "colors ": [
         "#0b162a",
         "#c83803",
         ""
@@ -97,7 +97,7 @@
       "name": "Bengals",
       "abbrev": "CIN",
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fcin.png",
-      "color ": [
+      "colors ": [
         "#000000",
         "#fb4f14",
         ""
@@ -111,7 +111,7 @@
       "name": "Browns",
       "abbrev": "CLE",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fcle.png",
-      "color": [
+      "colors": [
         "#311d00",
         "#ff3c00",
         ""
@@ -125,7 +125,7 @@
       "name": "Cowboys",
       "abbrev": "DAL",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-      "color": [
+      "colors": [
         "#002244",
         "#869397",
         "#00338d"
@@ -139,7 +139,7 @@
       "name": "Broncos",
       "abbrev": "DEN",
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fden.png",
-      "color": [
+      "colors": [
         "#fb4f14",
         "#002244",
         ""
@@ -153,10 +153,10 @@
       "name": "Lions",
       "abbrev": "DET",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-      "color (copy)": [
-        "#0076b6",
-        "#b0b7bc",
-        ""
+      "colors": [
+        "#0076B6",
+        "#B0B7Bc",
+        "#FFFFFF"
       ]
     },
     {
@@ -167,7 +167,7 @@
       "name": "Packers",
       "abbrev": "GB",
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fgb.png",
-      "color": [
+      "colors": [
         "#203731",
         "#ffb612",
         ""
@@ -181,7 +181,7 @@
       "name": "Texans",
       "abbrev": "HOU",
       "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fhou.png",
-      "color (copy)": [
+      "colors": [
         "#03202f",
         "#a71930",
         ""
@@ -195,7 +195,7 @@
       "name": "Colts",
       "abbrev": "IND",
       "imgURL": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Find.png",
-      "color": [
+      "colors": [
         "#002c5f",
         "#a5acaf",
         ""
@@ -209,7 +209,7 @@
       "name": "Jaguars",
       "abbrev": "JAX",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fjax.png",
-      "color (copy)": [
+      "colors": [
         "#006778",
         "#000000",
         "#9f792c"
@@ -223,7 +223,7 @@
       "name": "Chiefs",
       "abbrev": "KC",
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fkc.png",
-      "color": [
+      "colors": [
         "#e31837",
         "#ffb612",
         ""
@@ -237,7 +237,7 @@
       "name": "Chargers",
       "abbrev": "LAC",
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Flac.png",
-      "color (copy)": [
+      "colors": [
         "#002244",
         "#0073cf",
         "#ffb612"
@@ -251,7 +251,7 @@
       "name": "Rams",
       "abbrev": "LAR",
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Flar.png",
-      "color": [
+      "colors": [
         "#002244",
         "#b3995d",
         ""
@@ -265,7 +265,7 @@
       "name": "Dolphins",
       "abbrev": "MIA",
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fmia.png",
-      "color (copy)": [
+      "colors": [
         "#008e97",
         "#f26a24",
         ""
@@ -279,7 +279,7 @@
       "name": "Vikings",
       "abbrev": "MIN",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-      "color": [
+      "colors": [
         "#4f2683",
         "#ffc62f",
         ""
@@ -293,7 +293,7 @@
       "name": "Patriots",
       "abbrev": "NE",
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fne.png",
-      "color (copy)": [
+      "colors": [
         "#002244",
         "#c60c30",
         "#b0b7bc"
@@ -307,7 +307,7 @@
       "name": "Saints",
       "abbrev": "NO",
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fno.png",
-      "color": [
+      "colors": [
         "#d3bc8d",
         "#000000",
         ""
@@ -321,7 +321,7 @@
       "name": "Giants",
       "abbrev": "NYG",
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fnyg.png",
-      "color (copy)": [
+      "colors": [
         "#0b2265",
         "#a71930",
         "#a5acaf"
@@ -335,7 +335,7 @@
       "name": "Jets",
       "abbrev": "NYJ",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-      "color": [
+      "colors": [
         "#003f2d",
         "",
         ""
@@ -349,7 +349,7 @@
       "name": "Raiders",
       "abbrev": "OAK",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-      "color (copy)": [
+      "colors": [
         "#a5acaf",
         "#000000",
         ""
@@ -361,9 +361,9 @@
       "did": 4,
       "region": "Philadelphia",
       "name": "Eagles",
-      "abbrev": "Eagles",
+      "abbrev": "PHI",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-      "color": [
+      "colors": [
         "#004c54",
         "#a5acaf",
         "#000000"
@@ -377,7 +377,7 @@
       "name": "Steelers",
       "abbrev": "PIT",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fpit.png",
-      "color (copy)": [
+      "colors": [
         "#000000",
         "#ffb612",
         ""
@@ -391,7 +391,7 @@
       "name": "49ers",
       "abbrev": "SF",
       "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fsf.png",
-      "color": [
+      "colors": [
         "#aa0000",
         "#b3995d",
         ""
@@ -405,7 +405,7 @@
       "name": "Seahawks",
       "abbrev": "SEA",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fsea.png",
-      "color (copy)": [
+      "colors": [
         "#002244",
         "#69be28",
         "#a5acaf"
@@ -419,7 +419,7 @@
       "name": "Buccaneers",
       "abbrev": "TB",
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Ftb.png",
-      "color": [
+      "colors": [
         "#d50a0a",
         "#34302b",
         "#ff7900"
@@ -433,7 +433,7 @@
       "name": "Titans",
       "abbrev": "TEN",
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-      "color (copy)": [
+      "colors": [
         "#002244",
         "#4b92db",
         "#c60c30"
@@ -447,7 +447,7 @@
       "name": "Redskins",
       "abbrev": "WAS",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fwsh.png",
-      "color": [
+      "colors": [
         "#773141",
         "#ffb612",
         ""
