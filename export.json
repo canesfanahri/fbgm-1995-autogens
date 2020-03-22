@@ -12,6 +12,8 @@
       "region": "Arizona",
       "name": "Cardinals",
       "abbrev": "ARI",
+      "pop": 4.8,
+      "stadiumCapacity": 63400,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fari.png",
       "colors": [
         "#97233F",
@@ -26,6 +28,8 @@
       "region": "Atlanta",
       "name": "Falcons",
       "abbrev": "ATL",
+      "pop": 5.9,
+      "stadiumCapacity": 63400,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fatl.png",
       "colors": [
         "#A71930",
@@ -40,6 +44,8 @@
       "region": "Baltimore",
       "name": "Ravens",
       "abbrev": "BAL",
+      "pop": 2.8,
+      "stadiumCapacity": 71008,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fbal.png",
       "colors": [
         "#241773",
@@ -54,6 +60,8 @@
       "region": "Buffalo",
       "name": "Bills",
       "abbrev": "BUF",
+      "pop": 1.1,
+      "stadiumCapacity": 71608,
       "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fbuf.png",
       "colors": [
         "#00338D",
@@ -68,6 +76,8 @@
       "region": "Carolina",
       "name": "Panthers",
       "abbrev": "CAR",
+      "pop": 2.5,
+      "stadiumCapacity": 75523,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
       "colors": [
         "#0085CA",
@@ -82,11 +92,13 @@
       "region": "Chicago",
       "name": "Bears",
       "abbrev": "CHI",
+      "pop": 9.5,
+      "stadiumCapacity": 61500,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fchi.png",
       "colors ": [
         "#0b162a",
         "#c83803",
-        ""
+        "#FFFFFF"
       ]
     },
     {
@@ -96,11 +108,13 @@
       "region": "Cincinnati",
       "name": "Bengals",
       "abbrev": "CIN",
+      "pop": 2.1,
+      "stadiumCapacity": 65515,
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fcin.png",
       "colors ": [
         "#000000",
         "#fb4f14",
-        ""
+        "#fb4f14"
       ]
     },
     {
@@ -110,6 +124,8 @@
       "region": "Cleveland",
       "name": "Browns",
       "abbrev": "CLE",
+      "pop": 2,
+      "stadiumCapacity": 67895,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fcle.png",
       "colors": [
         "#311d00",
@@ -124,6 +140,8 @@
       "region": "Dallas",
       "name": "Cowboys",
       "abbrev": "DAL",
+      "pop": 7.2,
+      "stadiumCapacity": 80000,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
       "colors": [
         "#002244",
@@ -138,6 +156,8 @@
       "region": "Denver",
       "name": "Broncos",
       "abbrev": "DEN",
+      "pop": 2.9,
+      "stadiumCapacity": 76125,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fden.png",
       "colors": [
         "#fb4f14",
@@ -152,6 +172,8 @@
       "region": "Detroit",
       "name": "Lions",
       "abbrev": "DET",
+      "pop": 65000,
+      "stadiumCapacity": 4.3,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
       "colors": [
         "#0076B6",
@@ -166,6 +188,8 @@
       "region": "Green Bay",
       "name": "Packers",
       "abbrev": "GB",
+      "pop": 0.3,
+      "stadiumCapacity": 81441,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fgb.png",
       "colors": [
         "#203731",
@@ -180,6 +204,8 @@
       "region": "Houston",
       "name": "Texans",
       "abbrev": "HOU",
+      "pop": 6.9,
+      "stadiumCapacity": 72220,
       "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fhou.png",
       "colors": [
         "#03202f",
@@ -194,6 +220,8 @@
       "region": "Indianapolis",
       "name": "Colts",
       "abbrev": "IND",
+      "pop": 2,
+      "stadiumCapacity": 67000,
       "imgURL": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Find.png",
       "colors": [
         "#002c5f",
@@ -208,6 +236,8 @@
       "region": "Jacksonville",
       "name": "Jaguars",
       "abbrev": "JAX",
+      "pop": 1.5,
+      "stadiumCapacity": 69132,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fjax.png",
       "colors": [
         "#006778",
@@ -222,6 +252,8 @@
       "region": "Kansas City",
       "name": "Chiefs",
       "abbrev": "KC",
+      "pop": 2.1,
+      "stadiumCapacity": 76416,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fkc.png",
       "colors": [
         "#e31837",
@@ -236,6 +268,8 @@
       "region": "Los Angeles",
       "name": "Chargers",
       "abbrev": "LAC",
+      "pop": 13.1,
+      "stadiumCapacity": 27000,
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Flac.png",
       "colors": [
         "#002244",
@@ -250,6 +284,8 @@
       "region": "Los Angeles",
       "name": "Rams",
       "abbrev": "LAR",
+      "pop": 13.1,
+      "stadiumCapacity": 78467,
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Flar.png",
       "colors": [
         "#002244",
@@ -264,6 +300,8 @@
       "region": "Miami",
       "name": "Dolphins",
       "abbrev": "MIA",
+      "pop": 6.1,
+      "stadiumCapacity": 65236,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fmia.png",
       "colors": [
         "#008e97",
@@ -278,6 +316,8 @@
       "region": "Minnesota",
       "name": "Vikings",
       "abbrev": "MIN",
+      "pop": 3.6,
+      "stadiumCapacity": 66655,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
       "colors": [
         "#4f2683",
@@ -292,6 +332,8 @@
       "region": "New England",
       "name": "Patriots",
       "abbrev": "NE",
+      "pop": 4.6,
+      "stadiumCapacity": 66829,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fne.png",
       "colors": [
         "#002244",
@@ -306,6 +348,8 @@
       "region": "New Orleans",
       "name": "Saints",
       "abbrev": "NO",
+      "pop": 0.3,
+      "stadiumCapacity": 73208,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fno.png",
       "colors": [
         "#d3bc8d",
@@ -320,6 +364,8 @@
       "region": "New York",
       "name": "Giants",
       "abbrev": "NYG",
+      "pop": 22.6,
+      "stadiumCapacity": 82500,
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fnyg.png",
       "colors": [
         "#0b2265",
@@ -334,6 +380,8 @@
       "region": "New York",
       "name": "Jets",
       "abbrev": "NYJ",
+      "pop": 22.6,
+      "stadiumCapacity": 82500,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
       "colors": [
         "#003f2d",
@@ -348,6 +396,8 @@
       "region": "Oakland",
       "name": "Raiders",
       "abbrev": "OAK",
+      "pop": 0.4,
+      "stadiumCapacity": 63132,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
       "colors": [
         "#a5acaf",
@@ -362,6 +412,8 @@
       "region": "Philadelphia",
       "name": "Eagles",
       "abbrev": "PHI",
+      "pop": 6.1,
+      "stadiumCapacity": 69596,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
       "colors": [
         "#004c54",
@@ -376,6 +428,8 @@
       "region": "Pittsburgh",
       "name": "Steelers",
       "abbrev": "PIT",
+      "pop": 2.3,
+      "stadiumCapacity": 68400,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fpit.png",
       "colors": [
         "#000000",
@@ -390,6 +444,8 @@
       "region": "San Francisco",
       "name": "49ers",
       "abbrev": "SF",
+      "pop": 4.7,
+      "stadiumCapacity": 68500,
       "imgURL": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fsf.png",
       "colors": [
         "#aa0000",
@@ -404,6 +460,8 @@
       "region": "Seattle",
       "name": "Seahawks",
       "abbrev": "SEA",
+      "pop": 3.9,
+      "stadiumCapacity": 69000,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fsea.png",
       "colors": [
         "#002244",
@@ -418,6 +476,8 @@
       "region": "Tampa Bay",
       "name": "Buccaneers",
       "abbrev": "TB",
+      "pop": 3,
+      "stadiumCapacity": 65890,
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Ftb.png",
       "colors": [
         "#d50a0a",
@@ -432,6 +492,8 @@
       "region": "Tennessee",
       "name": "Titans",
       "abbrev": "TEN",
+      "pop": 1.9,
+      "stadiumCapacity": 69143,
       "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
       "colors": [
         "#002244",
@@ -446,6 +508,8 @@
       "region": "Washington",
       "name": "Redskins",
       "abbrev": "WAS",
+      "pop": 6.1,
+      "stadiumCapacity": 82000,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fwsh.png",
       "colors": [
         "#773141",
