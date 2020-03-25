@@ -79,7 +79,7 @@
       "abbrev": "CHI",
       "stadiumCapacity": 66944,
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fchi.png",
-      "colors ": [
+      "colors": [
         "#0b162a",
         "#c83803",
         "#FFFFFF"
@@ -95,7 +95,7 @@
       "abbrev": "CIN",
       "stadiumCapacity": 60389,
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fcin.png",
-      "colors ": [
+      "colors": [
         "#000000",
         "#fb4f14",
         "#fb4f14"
@@ -497,7 +497,7 @@
     },
     {
       "key": "minContract",
-      "value": 170
+      "value": 250
     },
     {
       "key": "salaryCap",
